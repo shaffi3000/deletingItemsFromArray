@@ -1,0 +1,2 @@
+# deletingItemsFromArray
+ Class exercise
